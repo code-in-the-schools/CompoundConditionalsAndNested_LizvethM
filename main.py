@@ -6,3 +6,4 @@ for i in range(6):
 #inner loop
 for j in range(6):
   print("inner loop | i = "+ str(i)+ " | j = "+ str(j))
+  
