@@ -5,8 +5,10 @@ for i in range(10):
 #inner loop
   for j in range(10):
     print("inner loop | i = "+ str(i)+ " | j = "+ str(j))
-#nums are even
+#nums are even or odd
     if(i%2)==0 and (j%2)==0:
       print("even")
+    else:
+        print("odd")
 
 
